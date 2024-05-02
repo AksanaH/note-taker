@@ -1,24 +1,3 @@
 {
-  "notesArray": [
-    {
-      "title": "weq",
-      "text": "qwe",
-      "id": "0"
-    },
-    {
-      "title": "ewf",
-      "text": "ewwe",
-      "id": "1"
-    },
-    {
-      "title": "yyy",
-      "text": "ttt",
-      "id": "2"
-    },
-    {
-      "title": "ttt",
-      "text": "gtg",
-      "id": "3"
-    }
-  ]
+  "notesArray": []
 }
