@@ -1,3 +1,14 @@
 {
-  "notesArray": []
+  "notesArray": [
+    {
+      "title": "Doctor 9am Friday",
+      "text": "Dentist",
+      "id": "0"
+    },
+    {
+      "title": "Make a dinner on Friday",
+      "text": "Friends come over",
+      "id": "2"
+    }
+  ]
 }
